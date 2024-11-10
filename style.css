@@ -1085,6 +1085,7 @@
   display: block;
   position: fixed;
   visibility: hidden;
+  overflow-y: scroll;
   top: 0;
   left: -100%;
   width: 100%;
